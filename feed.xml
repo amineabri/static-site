@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ho</title>
+    <link href="https://github.com/amineabri/static-site/feed.xml" rel="self" />
+    <link href="https://github.com/amineabri/static-site" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Amine</name>
+    </author>
+    <id>https://github.com/amineabri/static-site</id>
+
+</feed>
